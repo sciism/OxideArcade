@@ -278,3 +278,152 @@ starting list of games here: <https://en.wikipedia.org/wiki/Category:Video_games
   - Zero Zap
 
 [DONE]
+
+### 80's
+
+[TODO]
+
+- 1980
+  - ABM
+  - Adventure
+  - Apple-Oids
+  - Armor Attack
+  - Attack Force
+  - Auto Racing
+  - B-1 Nuclear Bomber
+  - Ball
+  - Ballon Bomber
+  - Baseball
+  - Basketball
+  - Battlezone
+  - Berzerk
+  - Bill Budge's Space Album
+  - Boxing
+  - Carnival
+  - Centipede
+  - Circus Atari
+  - Computer Acquire
+  - Computer Ambush
+  - Computer Bismarck
+  - Computer Conflict
+  - Cosmic Patrol
+  - Crazy Ballon
+  - Crazy Climber
+  - Creature Venture
+  - Crown of Arthain
+  - Deathmaze 5000
+  - Dodge 'Em
+  - Dogfight
+  - Dragon-Quest Adventure
+  - Dragster
+  - Eamon
+  - Fishing Derby
+  - Galactic Attak
+  - Galactic Empire
+  - Galactic Trader
+  - Galazy Invasion
+  - Ghost Town
+  - Golf
+  - Heli Fire
+  - Hellfire Warrior
+  - Horse Racing
+  - The Human Adventure
+  - Invaders from Space
+  - Invasion From Outer Space
+  - King & Ballon
+  - Labyrinth
+  - Lords of Karma
+  - Lunar Lander
+  - Maze Craze
+  - The Mean Checkers Machine
+  - Meta-Trek
+  - Micro-80 Pinball Machine
+  - Midway Campaign
+  - Missile Command
+  - Mission Asteroid
+  - Mission Escape!
+  - Money Madness
+  - Monster Mash & Battleship
+  - Moon Cresta
+  - Morloc's Tower
+  - Musician
+  - Mystery House
+  - N-Sub
+  - NASL Soccer
+  - Network
+  - North Atlantic Convoy Raider
+  - NukeWar
+  - Odyssey: The Compleat Apventure
+  - Olympic Decathlon
+  - Othello
+  - Pac-Man
+  - Parsector V
+  - Phoenix
+  - Pinball
+  - Planet Miners
+  - Planetoids
+  - Polaris
+  - The Prisoner
+  - Project Omega
+  - Radar Scope
+  - Rally-X
+  - Red Baron
+  - Rescue at Rigel
+  - Rip Off
+  - Rogue
+  - Sea Battle
+  - Sea Duel
+  - The Search Series
+  - Sengoku Ninja Tai
+  - Skiing
+  - Skiing
+  - Slag
+  - Space and Sport Games
+  - Space Encounters
+  - Space Firebird
+  - Space Games-3
+  - Space Invaders II
+  - Space Monster
+  - Space Panic
+  - Space Zap
+  - Spectar
+  - Star Castle
+  - Star Cruiser
+  - Star Raiders
+  - Star Warrior
+  - Starbase Hyperion
+  - Stellar Adventure
+  - Stellar Track
+  - Stratovox
+  - Super Nova
+  - Tank Battalion
+  - Targ
+  - Terrorist
+  - Time Traveler
+  - Tycoon
+  - Video Checkers
+  - Video Pinball
+  - Warlords
+  - The Warp Factor
+  - Windfall: The Oil Crisis Game
+  - Winged Samurai
+  - Wizard and the Princess
+  - Wizard of Wor
+- 1981
+- 1982
+- 1983
+- 1984
+- 1985
+- 1986
+- 1987
+- 1988
+- 1989
+[DONE]
+
+### 90's
+
+[TODO]
+
+- 1990
+
+[DONE]
